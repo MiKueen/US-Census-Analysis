@@ -12,7 +12,7 @@ preprocessor = joblib.load('artifacts/preprocessor.pkl')
 selected_indices = np.load('artifacts/selected_indices.npy')
 
 # Load the trained model
-model = joblib.load('../models/gradient_boosting.pkl')
+model = joblib.load('artifacts/gradient_boosting.pkl')
 
 @app.route('/')
 def home():
