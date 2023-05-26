@@ -1,0 +1,37 @@
+TractId: An identifier for a specific tract.
+State: The name of the state.
+County: The name of the county.
+TotalPop: The total population in the tract.
+Men: The number of males in the tract.
+Women: The number of females in the tract.
+Hispanic: The percentage of the population that identifies as Hispanic.
+White: The percentage of the population that identifies as White.
+Black: The percentage of the population that identifies as Black.
+Native: The percentage of the population that identifies as Native American.
+Asian: The percentage of the population that identifies as Asian.
+Pacific: The percentage of the population that identifies as Pacific Islander.
+VotingAgeCitizen: The number of citizens of voting age in the tract.
+Income: The median household income in the tract.
+IncomeErr: The margin of error for the median household income.
+IncomePerCap: The per capita income in the tract.
+IncomePerCapErr: The margin of error for the per capita income.
+Poverty: The percentage of the population living below the poverty line.
+ChildPoverty: The percentage of children under 18 living below the poverty line.
+Professional: The percentage of employed individuals in professional occupations.
+Service: The percentage of employed individuals in service occupations.
+Office: The percentage of employed individuals in office occupations.
+Construction: The percentage of employed individuals in construction occupations.
+Production: The percentage of employed individuals in production occupations.
+Drive: The percentage of workers who commute by driving.
+Carpool: The percentage of workers who commute by carpooling.
+Transit: The percentage of workers who commute by public transit.
+Walk: The percentage of workers who commute by walking.
+OtherTransp: The percentage of workers who commute using other modes of transportation.
+WorkAtHome: The percentage of workers who work from home.
+MeanCommute: The average commute time in minutes.
+Employed: The number of employed individuals in the tract.
+PrivateWork: The percentage of workers employed in the private sector.
+PublicWork: The percentage of workers employed in the public sector.
+SelfEmployed: The percentage of workers who are self-employed.
+FamilyWork: The percentage of workers who work in a family business.
+Unemployment: The percentage of the labor force that is unemployed.
