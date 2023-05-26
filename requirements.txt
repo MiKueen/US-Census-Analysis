@@ -1,9 +1,5 @@
 joblib==1.2.0
 pandas==1.4.4
-pipreqs==0.4.13
-scikit-learn-intelex==2021.20221004.121333
-scipy==1.9.1
-xgboost==1.7.5
 Flask
 numpy
 matplotlib
